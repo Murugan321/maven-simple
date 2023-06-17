@@ -4,7 +4,4 @@ node{
    } 
 }
 
-1234456adn vkdfv
-dnvldfn
-sdnv eje
 
